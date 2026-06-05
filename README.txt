@@ -1,6 +1,6 @@
-SOFTPURPLE PRODUCT MANAGER
+PHANTOM MARKET
 ===========================
-Aplikasi SPA Manajemen Produk dengan Tema Soft Purple
+Mysterious Product Management
 
 DESKRIPSI
 ----------

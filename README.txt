@@ -10,8 +10,6 @@ menggunakan DummyJSON API dengan metode HTTP:
 - PUT (Edit Data)  
 - DELETE (Hapus Data)
 
-TEMA: Soft Purple dengan nuansa pastel yang menenangkan
-
 FITUR LENGKAP
 --------------
 ✅ CREATE (POST) - Tambah produk baru dengan form yang sudah divalidasi
@@ -97,7 +95,3 @@ BROWSER SUPPORT
 ✅ Edge (latest)
 ✅ Safari (latest)
 
-DIBUAT OTOMATIS OLEH AI ASSISTANT
-==================================
-Tema: Soft Purple
-Tanggal: [Current Date]
